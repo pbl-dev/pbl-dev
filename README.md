@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbl-dev&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews" alt="pbl-dev" /></a> </p>
 
-- 🔭 I’m currently working on - **Discord Bots**
+- 🔭 I’m currently working on - **Discord Bots and my personal project - Hank Bot**
 
 - 🌱 I’m currently learning - **Backend & Frontend developement, Flask and PHP**
 
