@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pbl / pbl_dev / pbl000</h1>
-<h3 align="center">14yo that likes to have fun with Discord's API using Python</h3>
+<h3 align="center">14yo that likes to have fun with Discord's API using Python/JS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbl-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pbl-dev" /> </p>
 
@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently working on - **Discord Bots and my personal project - Hank Bot**
 
-- 🌱 I’m currently learning - **Backend & Frontend developement, Flask and PHP**
+- 🌱 I’m currently learning - **Backend & Frontend developement, Flask and PHP, MongoDB, Javascript and Python**
 
 - 💬 Ask me about - **discord.py, Windows, Android**
 
-- 📫 How to reach me - **devpbl000@gmail.com**
+- 💫 I love - **Physics, Computer-related stuff, Gym** 
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me - **devpbl000@gmail.com / Discord: @pbl_dev**
+
+<h3 align="left">My socials:</h3>
 <p align="left">
 <a href="https://twitter.com/pbldev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pbldev0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25334243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25334243" height="30" width="40" /></a>
