@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm pbl / pbl_dev / pbl000</h1>
-<h3 align="center">14yo that likes to have fun with Discord's API using Python/JS</h3>
+<h1 align="center">Hi 👋, I'm pbl / pbl_dev</h1>
+<h3 align="center">14yo that likes to have fun with Discord's API using Python (Learning discord.js)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbl-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pbl-dev" /> </p>
 
