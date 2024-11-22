@@ -16,11 +16,11 @@
 
 <h3 align="left">My socials:</h3>
 <p align="left">
-  <a href="https://twitter.com/pbldev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pbldev0" height="30" width="40" />
+  <a href="https://x.com/pbldev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pbldev0" height="40" width="50" />
 </a>
-  <a href="https://www.roblox.com/users/1323997562/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/pbl-dev/pbl-dev/main/Roblox.svg" height="30" width="40" />
+  <a href="https://www.roblox.com/users/1323997562/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/pbl-dev/pbl-dev/main/Roblox.svg" height="40" width="50" />
 </a>
-  <a href="https://stackoverflow.com/users/25334243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25334243" height="30" width="40" />
+  <a href="https://stackoverflow.com/users/25334243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25334243" height="40" width="50" />
 </a>
 </p>
 
