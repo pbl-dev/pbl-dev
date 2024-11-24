@@ -14,13 +14,13 @@
 
 - 📫 How to reach me - **devpbl000@gmail.com / Discord: @pbl_def**
 
-<h3 align="left">My socials:</h3>
+<h3 align="left">My accounts:</h3>
 <p align="left">
-  <a href="https://x.com/pbldev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pbldev0" height="40" width="50" />
+  <a href="https://x.com/pbldev0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pbldev0" height="40" width="50" />
 </a>
-  <a href="https://www.roblox.com/users/1323997562/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/pbl-dev/pbl-dev/main/Roblox.svg" height="40" width="50" />
+  <a href="https://www.roblox.com/users/1323997562/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pbl-dev/pbl-dev/main/Roblox.svg" height="40" width="50" />
 </a>
-  <a href="https://stackoverflow.com/users/25334243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25334243" height="40" width="50" />
+  <a href="https://stackoverflow.com/users/25334243" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25334243" height="40" width="50" />
 </a>
 </p>
 
@@ -29,6 +29,8 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Windows_Registry" target="_blank" rel="noreferrer" <img src="https://raw.githubusercontent.com/pbl-dev/pbl-dev/main/Registry.svg" height="40" width="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
