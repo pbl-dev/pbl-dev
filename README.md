@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on - **Improving couple of forked repos, Shade Discord Bot and couple of others.**
 
-- 🌱 I’m currently learning - **Backend & Frontend developement, Javascript and Python, Windows Registry**
+- 🌱 I’m currently learning - **Backend & Frontend developement, Javascript and Python, Windows Registry, Discord Bot Development**
 
-- 💬 Ask me about - **Windows, Android**
+- 💬 Ask me about - **Windows, Android, Discord**
 
 - 💫 I love - **Physics, Computer-related stuff, Gym** 
 
@@ -31,6 +31,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Windows_Registry" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pbl-dev/pbl-dev/main/Registry.svg" height="40" width="40" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/VMware_Workstation" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pbl-dev/pbl-dev/main/VMWare.svg" height="40" width="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
