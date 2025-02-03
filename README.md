@@ -4,20 +4,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbl-dev&theme=discord&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews" alt="pbl-dev" /></a> </p>
 
-- 🔭 I’m currently working on - **Improving couple of forked repos, Shade Discord Bot and couple of others.**
+<p align="left"> <a href="https://twitter.com/pbldev0" target="blank"><img src="https://img.shields.io/twitter/follow/pbldev0?logo=twitter&style=for-the-badge" alt="pbldev0" /></a> </p>
 
-- 🌱 I’m currently learning - **Backend & Frontend developement, Javascript and Python, Windows Registry, Discord Bot Development**
+- 🔭 I’m currently working on - **Nexify, some simple for my use case projects.**
 
-- 💬 Ask me about - **Windows, Android, Discord**
+- 🌱 I’m currently learning - **Backend & Frontend developement, Javascript and Python, Discord Bot Development**
+
+- 💬 Ask me about - **Windows, Discord**
 
 - 💫 I love - **Physics, Computer-related stuff, Gym** 
 
-- 📫 How to reach me - **devpbl000@gmail.com / Discord: @pbl_def**
+- 📫 How to reach me - **devpbl000@gmail.com / Discord: @pbl_dev**
 
 <h3 align="left">My accounts:</h3>
 <p align="left">
-  <a href="https://x.com/pbldev0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pbldev0" height="40" width="50" />
-</a>
   <a href="https://www.roblox.com/users/1323997562/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pbl-dev/pbl-dev/main/Roblox.svg" height="40" width="50" />
 </a>
   <a href="https://stackoverflow.com/users/25334243" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25334243" height="40" width="50" />
@@ -40,4 +40,12 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pbl-dev&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="pbl-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pbl-dev&show_icons=true&theme=synthwave&locale=en" alt="pbl-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pbl-dev&theme=dark" alt="pbl-dev" /></p>
