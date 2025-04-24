@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pbl / pbl_dev</h1>
+<h2>Hi 👋, I'm pbl / pbl_dev</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbl-dev&label=Views&color=blueviolet&style=flat" alt="pbl-dev" /> </p>
 
