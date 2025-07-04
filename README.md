@@ -4,7 +4,7 @@
 📫 Socials - Discord: @pbl_dev / X: @pbldev0
 
 <h2>Activity:</h2>
-[![Discord Presence](https://lanyard.cnrad.dev/api/657696681504014376)](https://discord.com/users/657696681504014376)
+<a href="https://discord.com/users/657696681504014376"><img src="https://lanyard.cnrad.dev/api/657696681504014376" /></a>
 
 <h2>Achievements:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbl-dev&theme=discord&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews" alt="pbl-dev" /></a> </p>
